@@ -1,4 +1,4 @@
-# Experiment_Sim
+# VR-ExperimentSim
 
 This is the main repository for the VR sim project.
 
